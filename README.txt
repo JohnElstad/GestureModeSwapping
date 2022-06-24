@@ -1,4 +1,4 @@
-This is the code for my capstone project to train a neural network that can recognize different gestures. The project uses ZED API to recognize body pose and predict gestures based on the pose. More information can be found in the capstone report. 
+This is the code for my capstone project to train a neural network that can recognize different gestures. The project uses ZED API to recognize body pose and predict gestures based on the pose. More information can be found in the capstone report. EVERYTHING IN THE FOLDER IS UPDATED. Ignore everything outside of the folder. They are remnents from the beginning of this project.
 
 6/23/2022 - John Elstad
 Contains code that can swap between two predefined modes ("Follow Me Mode" and "Gesture Control Mode") using 6 predefined gesetures. The code recognizes the gestures using a custom tensorflow model and ZED api. Publishes move commands to ROS depending on the current mode. Mode can be adjusted with the Mode swap gesture. 
